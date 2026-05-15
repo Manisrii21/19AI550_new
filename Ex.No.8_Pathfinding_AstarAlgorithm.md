@@ -139,8 +139,7 @@ Check the following
 ### Output:
 
 BEFORE :
-<img width="1917" height="1020" alt="Screenshot 2026-05-15 091559" src="https://github.com/user-attachments/assets/b8db1598-c4a8-4f22-9abc-742cb7d2cc0d" />
-
+"C:\Users\admin\Pictures\Screenshots\Screenshot 2026-05-15 091559.png"
 
 AFTER :
 <img width="1918" height="1025" alt="Screenshot 2026-05-15 091623" src="https://github.com/user-attachments/assets/b33fee52-befb-46e4-9ef0-eadd15eee527" />
