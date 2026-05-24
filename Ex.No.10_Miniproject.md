@@ -1,4 +1,4 @@
-# Ex.No: 10  Implementation of 2D/3D game -------------------
+# Ex.No: 10  Implementation of 2D/3D game 
 ### DATE:  24-05-2026                                                                     
 ### REGISTER NUMBER : 212223110025
 ### AIM: 
