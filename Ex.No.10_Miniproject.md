@@ -16,7 +16,7 @@ To develop a game “2D Maze Runner Game” in Unity.
 ```  
 ### Program:
 
-# PLAYER MOVEMENT 
+### PLAYER MOVEMENT 
 ```
 using UnityEngine;
 
@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
     }
 }
 ```
-# GOAL
+### GOAL
 ```
 using UnityEngine;
 
@@ -62,11 +62,11 @@ public class Goal : MonoBehaviour
 ```
 
 ### Output:
-# BEFORE 
+### BEFORE 
 <img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/933c217b-c8b8-4ef1-95c0-28d8da8695ca" />
 
 
-# AFTER 
+### AFTER 
 <img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/f776d183-3208-4827-8170-447354b25505" />
 
 ### Result:
