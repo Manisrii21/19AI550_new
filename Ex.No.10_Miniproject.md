@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of 2D/3D game -------------------
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:  24-05-2026                                                                     
+### REGISTER NUMBER : 212223110025
 ### AIM: 
 To develop a game “2D Maze Runner Game” in Unity.
 ### Algorithm:
